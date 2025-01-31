@@ -1,0 +1,16 @@
+.flexbox {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+p {
+  margin: 50px;
+}
+
+.sq {
+  height: 300px;
+  width: 300px;
+  background-color: rgb(110, 218, 110);
+  font-size: 30px;
+  margin: 10px;
+}
